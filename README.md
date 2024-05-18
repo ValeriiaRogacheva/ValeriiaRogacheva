@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 🐍💻  </samp></h3>
+<h3 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 💻  </samp></h3>
 
 ###
   </a>
@@ -35,7 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
 ###
@@ -58,7 +57,6 @@
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/25102352/lerarogacheva)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valeriia-rogacheva-26936230a/)
-<a href="https://www.instagram.com/v.rogacheva/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
 <a href="https://t.me/ValeriiaRogacheva" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 
