@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 👩‍💻  </samp></h3>
+<h2 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 👩‍💻  </samp></h2>
 
 ###
   </a>
@@ -53,5 +53,6 @@
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 
 ###
-
+<div align="center">
  <a href="https://www.buymeacoffee.com/valeriiarogacheva?new=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="valeriiarogacheva" /></a>
+</div>
