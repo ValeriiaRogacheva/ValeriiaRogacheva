@@ -40,18 +40,18 @@
 </div>
 
 ###
-
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ValeriiaRogacheva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-<div align="center">
+
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/25102352/lerarogacheva)
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valeriia-rogacheva-26936230a/)
 <a href="https://t.me/ValeriiaRogacheva" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
+
 ###
 <div align="center">
  <a href="https://www.buymeacoffee.com/valeriiarogacheva?new=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="valeriiarogacheva" /></a>
