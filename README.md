@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer . I also like Python and new technologies 🐍 ☁️ </samp></h3>
+<h3 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 🐍💻  </samp></h3>
 
 ###
   </a>
