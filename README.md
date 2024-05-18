@@ -1,4 +1,4 @@
-<img src="https://github.com/ValeriiaRogacheva/ValeriiaRogacheva/blob/main/20240518_145839.jpg" width="400" height="790">
+<img src="https://github.com/ValeriiaRogacheva/ValeriiaRogacheva/blob/main/20240518_145839.jpg" width="400" height="300">
 
 
 ###
