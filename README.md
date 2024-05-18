@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
- 
+ <img height="300" width="600" src=""C:\Users\Лера\Desktop\20240518_145839.jpg""  />
 </div>
 
 ###
