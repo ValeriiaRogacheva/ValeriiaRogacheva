@@ -60,3 +60,8 @@
 <div align="center">
  <a href="https://www.buymeacoffee.com/valeriiarogacheva?new=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="valeriiarogacheva" /></a>
 </div>
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
