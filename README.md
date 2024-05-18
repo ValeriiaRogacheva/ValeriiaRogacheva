@@ -1,11 +1,9 @@
 <br clear="both">
 
 <div align="center">
- <img height="300" width="600" src="https://cloud.mail.ru/public/KrZT/2oHwkT5Uh"  />
+
 </div>
-<p align="center">
- <img width="200px" src="(https://cloud.mail.ru/public/KrZT/2oHwkT5Uh)" alt="qr"/>
-</p>
+
 ###
 
 <h2 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 👩‍💻  </samp></h2>
