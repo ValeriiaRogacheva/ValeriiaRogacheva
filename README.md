@@ -1,4 +1,4 @@
-
+<img src="path/to/screenshot.png" width="500">
 ![Image alt](https://github.com/ValeriiaRogacheva/ValeriiaRogacheva/blob/main/20240518_145839.jpg)
 width="400" height="790">
 
