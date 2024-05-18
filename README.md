@@ -7,13 +7,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Валерия!</h1>
-
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! My name is Valeriia and I Backend Developer . I also like Python and new technologies 🐍 ☁️ </samp></h4>
-
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+<h4 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer . I also like Python and new technologies 🐍 ☁️ </samp></h4>
 
 ###
   </a>
