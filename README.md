@@ -45,17 +45,17 @@
 </div>
 
 ###
-<div align="left">
+
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/25102352/lerarogacheva)
 &nbsp;
- </div>
- <div align="center">
+ 
+
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valeriia-rogacheva-26936230a/)
 <a href="https://t.me/ValeriiaRogacheva" target="_blank">
-  </div>
- <div align="right">
+ 
+
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
- </div>
+
  
 ###
 <div align="center">
