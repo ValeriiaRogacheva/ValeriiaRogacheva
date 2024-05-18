@@ -8,10 +8,6 @@
 
 <h2 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 👩‍💻  </samp></h2>
 
-###
-  </a>
-  </a>
-</div>
 
 ###
 
