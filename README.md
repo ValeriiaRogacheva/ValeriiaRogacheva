@@ -1,7 +1,8 @@
 <br clear="both">
 
 <div align="center">
-<img height="300" width="600" src="github.com/ValeriiaRogacheva/blob/main/20240518_145839.jpg" />
+![Image alt](https://github.com/ValeriiaRogacheva/blob/main/20240518_145839.jpg/image.png)
+
 </div>
 
 ###
