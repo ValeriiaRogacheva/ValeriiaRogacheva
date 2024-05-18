@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
- <img height="300" width="600" src=""C:\Users\Лера\Desktop\20240518_145839.jpg""  />
+ <img height="300" width="600" src="https://cloud.mail.ru/attaches/17160234870566925943%3B0%3B1?folder-id=500015&x-email=lera.rogacheva.1997%40bk.ru&cvg=f"  />
 </div>
 
 ###
