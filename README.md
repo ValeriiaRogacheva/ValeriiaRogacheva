@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ValeriiaRogacheva/ValeriiaRogacheva/blob/main/20240518_145839.jpg" width="450" height="300">
+<img src="https://github.com/ValeriiaRogacheva/ValeriiaRogacheva/blob/main/20240518_145839.jpg" width="450" height="400">
 
 </div>
 
