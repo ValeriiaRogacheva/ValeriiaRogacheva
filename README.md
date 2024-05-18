@@ -10,8 +10,6 @@
 
 ###
   </a>
-  <a href="https://t.me/ValeriiaRogacheva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
 
@@ -61,6 +59,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valeriia-rogacheva-26936230a/)
 <a href="https://www.instagram.com/v.rogacheva/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
+<a href="https://t.me/ValeriiaRogacheva" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 
 ###
 
