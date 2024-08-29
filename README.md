@@ -1,5 +1,5 @@
 
-<h2 align="center"><samp> Hi there 👋  \n Welcome to my Github! My name is Valeriia and I Fullstack Developer. 👩‍💻  </samp></h2>
+<h2 align="center"><samp> Hi there 👋  <\n> Welcome to my Github! My name is Valeriia and I Fullstack Developer. 👩‍💻  </samp></h2>
 
 
 ###
