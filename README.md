@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Backend Developer. I also like Python and new technologies 👩‍💻  </samp></h2>
+<h2 align="center"><samp> Hi there 👋  welcome to my Github! My name is Valeriia and I Fullstack Developer. 👩‍💻  </samp></h2>
 
 
 ###
@@ -27,6 +27,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 </div>
