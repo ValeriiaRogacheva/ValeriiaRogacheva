@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ValeriiaRogacheva/ValeriiaRogacheva/blob/main/20240518_145839.jpg" width="450" height="350">
+<iframe src="https://giphy.com/embed/dEvfJaOEzxl9AUSzHP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bicomsystems-gopher-golang-bicom-dEvfJaOEzxl9AUSzHP">via GIPHY</a></p>
 
 </div>
 
