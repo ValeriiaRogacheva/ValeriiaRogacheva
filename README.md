@@ -1,6 +1,6 @@
 <div align="center">
 
-<iframe src="https://giphy.com/embed/dEvfJaOEzxl9AUSzHP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bicomsystems-gopher-golang-bicom-dEvfJaOEzxl9AUSzHP">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/dEvfJaOEzxl9AUSzHP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bicomsystems-gopher-golang-bicom-dEvfJaOEzxl9AUSzHP">
 
 </div>
 
