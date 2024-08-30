@@ -22,11 +22,10 @@
     &lt;a href="https://www.postgresql.org" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/&gt;&lt;/a&gt;
     &lt;a href="https://postman.com" target="_blank" rel="noreferrer"&gt;&lt;img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/&gt;&lt;/a&gt;
     &lt;a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/&gt;&lt;/a&gt;
-    &lt;a href="https://vuejs.org/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/v
-uejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/&gt;&lt;/a&gt;
+    &lt;a href="https://vuejs.org/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="
+40"/&gt;&lt;/a&gt;
 &lt;/p&gt;
 </pre>
-
 
 ###
 
