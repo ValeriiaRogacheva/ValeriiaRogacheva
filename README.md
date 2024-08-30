@@ -18,10 +18,6 @@
 </div>
 
 ###
-
-<h3 align="left">🤳Сontact with me:</h3>
-
-###
 [![trophy](https://github-profile-trophy.vercel.app/?username=ValeriiaRogacheva&theme=onedark)](https://github.com/ValeriiaRogacheva/github-profile-trophy)
 
 
