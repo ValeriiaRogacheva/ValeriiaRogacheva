@@ -22,21 +22,6 @@
 <h3 align="left">🤳Сontact with me:</h3>
 
 ###
-
-<div align="center">
-
-<a href="https://linkedin.com/in/valeriia-rogacheva-26936230a/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="ValeriiaRogacheva" height="40" width="40" /></a>
-<a href="https://instagram.com/v.rogacheva/" target="blank"><img src="https://img.icons8.com/fluency/144/000000/instagram-new.png" alt="v.rogacheva" height="40" width="40" /></a> 
-<a href="https://stackoverflow.com/users/25102352/lerarogacheva" target="blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="priyankesh-raj" height="40" width="40" /></a>
-
-</div>
- 
-###
-<div align="center">
- <a href="https://www.buymeacoffee.com/valeriiarogacheva?new=1"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="valeriiarogacheva" /></a>
-</div>
-
-###
 [![trophy](https://github-profile-trophy.vercel.app/?username=ValeriiaRogacheva&theme=onedark)](https://github.com/ValeriiaRogacheva/github-profile-trophy)
 
 
