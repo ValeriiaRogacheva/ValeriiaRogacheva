@@ -2,15 +2,6 @@
 <h2 align="center"><samp> Hi there 👋 
   Welcome to my Github! My name is Valeriia and I Fullstack Developer. 👩‍💻  </samp></h2>
 
-
-###
-
-<div align="center">
-  
-<h3 align="left">🛠 Technologies:</h3>
-
-</div>
-
 ###
 
 <h3 align="left">🔥 My statistics :</h3>
