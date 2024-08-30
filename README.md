@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my Github! My name is Valeriia and I Fullstack Developer. 👩‍💻  
+## Hi there 👋 Welcome to my Github! My name is Valeriia and I Fullstack Developer. 👩‍💻  
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-### 🔥 statistics:
+### 🔥 Statistics:
 
 ###
 
